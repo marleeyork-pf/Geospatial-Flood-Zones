@@ -25,7 +25,10 @@
 
 <h2>Data Visualization</h2>
 <p>
-  <img src="figures/extreme_identification.png" width="400" alt="Identification of Extreme Carbon Fluxes">
+  <img src="visualizations/CountyEventTimeseries.png" width="400" alt="County Events over Time">
+  <img src="visualizations/EventsPerCounty.png" width="400" alt="Flood Events Per County">
+  <img src="visualizations/EventsPerCountyMap.png" width="400" alt="Map of Events per County">
+  <img src="visualizations/TotalFloodDamage.png" width="400" alt="Flood Damage by Decade">
 </p>
 
 <h2>Skills</h2>
